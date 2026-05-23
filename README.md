@@ -17,6 +17,14 @@ It is designed for quick implementation support, community sharing, and stable v
 
 A small incident package: a triage checklist plus a dependency-call logging schema for proving queueing and stopping repeat timeouts in legacy ASP.NET services.
 
+## Repository Contents
+
+- `resources/` contains shipped files copied from MatrixTrak public ship assets when available
+- `docs/post-mapping.md` maps this resource to related blog posts
+- `docs/resource-files.md` lists included files and source mapping
+- Included shipped files:
+  - resources/thread-pool-starvation-silent-killer-aspnet-performance.zip
+
 ## Who This Is For
 
 - Engineers handling production incidents and reliability gaps
